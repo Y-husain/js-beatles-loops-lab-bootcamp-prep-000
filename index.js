@@ -15,7 +15,7 @@ return arr
 
 
 
-function johnLennonFacts(fact) {
+function johnLennonFacts(facts) {
 
 
 for (let e=0; e<facts.length; e++) {
