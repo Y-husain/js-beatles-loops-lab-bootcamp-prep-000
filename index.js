@@ -15,7 +15,7 @@ return arr
 
 
 
-function johnLennonFacts(facts) {
+function johnLennonFacts(fact) {
 
 var fact = [];
 
