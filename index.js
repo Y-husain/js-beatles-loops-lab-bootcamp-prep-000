@@ -31,7 +31,7 @@ for (let e=0; e<facts.length; e++) {
 var i = 0
 	
 while (i<facts.length) {
-	fact[i] += facts[i] + "!!!"
+	facts[i] += facts[i] + "!!!"
 	i++
 }
 return fact
