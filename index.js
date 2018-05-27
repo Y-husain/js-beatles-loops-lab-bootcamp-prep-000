@@ -38,15 +38,16 @@ return fact
 }
 
 
-function iLoveTheBeatles(numb){
+function iLoveTheBeatles(num){
 	var empty = [];
+	var numb = 0;
 	
-	for( let i=0; i<numb; i++) {
+	for (i=0; i<num; i++) {
 	fact[i] = "";
 		}
 	
 	do {
 		empty  += "I love the Beatles!";}
 		
-	while (numb<15);
+	while (num<15);
 }
