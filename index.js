@@ -40,7 +40,7 @@ return fact
 
 function iLoveTheBeatles(numb){
 	var empty = [];
-	var numb = 0;
+
 	
 	for (let i=0; i<numb; i++) {
 	fact[i] = "";
