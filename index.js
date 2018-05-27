@@ -19,7 +19,6 @@ const facts = [
   "He was a choir boy and boy scout",
   "He hated the sound of his own voice"
 ];
-
 function johnLennonFacts(facts) {
 
 var fact = [];
@@ -38,16 +37,15 @@ return fact
 }
 
 
-function iLoveTheBeatles(num){
+function iLoveTheBeatles(numb){
 	var empty = [];
-
 	
-	for (let i=0; i>num; i++) {
-	fact[i] = ""
+	for( let i=0; i<numb; i++) {
+	fact[i] = "";
 		}
 	
 	do {
 		empty  += "I love the Beatles!";}
 		
-	while (num<15);
+	while (numb<15);
 }
