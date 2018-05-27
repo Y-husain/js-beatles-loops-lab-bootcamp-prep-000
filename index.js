@@ -17,7 +17,6 @@ return arr
 
 function johnLennonFacts(fact) {
 
-var fact = [];
 
 for (let e=0; e<facts.length; e++) {
   fact[e] = "";
