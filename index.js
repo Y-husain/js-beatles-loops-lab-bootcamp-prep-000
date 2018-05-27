@@ -43,11 +43,11 @@ function iLoveTheBeatles(numb){
 
 	
 	for (let i=0; i<numb; i++) {
-	fact[i] = "";
-		}
+// 	fact[i] = "";
+// 		}
 	
-	do {
-		empty  += "I love the Beatles!";}
+// 	do {
+// 		empty  += "I love the Beatles!";}
 		
-	while (numb<15);
+	while (numb<15);{}}
 }
