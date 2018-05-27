@@ -42,7 +42,7 @@ function iLoveTheBeatles(numb){
 	var empty = [];
 	
 	for( let i=0; i<numb; i++) {
-	facts[i] = "";
+	fact[i] = "";
 		}
 	
 	do {
