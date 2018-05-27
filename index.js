@@ -31,7 +31,7 @@ for (let e=0; e<facts.length; e++) {
 var i = 0
 	
 while (i<facts.length) {
-	facts[i] += facts[i] + "!!!"
+	fact[i] += facts[i] + "!!!"
 	i++
 }
 return fact
@@ -42,7 +42,7 @@ function iLoveTheBeatles(numb){
 	var empty = [];
 	
 	for( let i=0; i<numb; i++) {
-	fact[i] = "";
+	facts[i] = "";
 		}
 	
 	do {
