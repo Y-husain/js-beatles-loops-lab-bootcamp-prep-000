@@ -14,21 +14,21 @@ return arr
 }
 
 
-
 function johnLennonFacts(facts) {
 
+var fact = [];
 
 for (let e=0; e<facts.length; e++) {
-  fact[e] = "";
+	fact[e] = ""
 }
 
-var i = 0;
+var i = 0
 	
 while (i<facts.length) {
 	fact[i] += facts[i] + "!!!"
-	i++;
+	i++
 }
-return fact;
+return fact
 }
 
 
